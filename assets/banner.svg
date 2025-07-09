@@ -1,0 +1,36 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="250" rx="15" fill="url(#paint0_linear)"/>
+  
+  <!-- Background Grid Pattern -->
+  <path d="M0 50H1200M0 100H1200M0 150H1200M0 200H1200M50 0V250M100 0V250M150 0V250M200 0V250M250 0V250M300 0V250M350 0V250M400 0V250M450 0V250M500 0V250M550 0V250M600 0V250M650 0V250M700 0V250M750 0V250M800 0V250M850 0V250M900 0V250M950 0V250M1000 0V250M1050 0V250M1100 0V250M1150 0V250" stroke="url(#paint1_linear)" stroke-opacity="0.2"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="150" cy="50" r="10" fill="#8B5CF6" fill-opacity="0.5"/>
+  <circle cx="950" cy="200" r="15" fill="#EC4899" fill-opacity="0.6"/>
+  <circle cx="750" cy="75" r="8" fill="#10B981" fill-opacity="0.7"/>
+  <circle cx="250" cy="175" r="12" fill="#3B82F6" fill-opacity="0.4"/>
+  <circle cx="550" cy="125" r="20" fill="#F59E0B" fill-opacity="0.3"/>
+  
+  <!-- Code Elements -->
+  <path d="M85 130L65 110L85 90" stroke="#D1D5DB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M115 90L135 110L115 130" stroke="#D1D5DB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M105 80L95 140" stroke="#D1D5DB" stroke-width="5" stroke-linecap="round"/>
+  
+  <!-- Main Text -->
+  <text x="200" y="140" fill="white" font-family="Segoe UI, sans-serif" font-size="48" font-weight="bold" letter-spacing="2">Yassir Rzigui</text>
+  
+  <!-- Subtitle -->
+  <text x="200" y="180" fill="#D1D5DB" font-family="Segoe UI, sans-serif" font-size="24">AI Developer &amp; Data Specialist</text>
+  
+  <!-- Gradient Definitions -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+</svg>
