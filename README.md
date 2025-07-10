@@ -148,13 +148,13 @@ A collection of DevOps and system engineering projects using Shell, Python, Pupp
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake.svg" />
     <img alt="Snake Animation" src="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://github.com/yazzy01">
 </div>
 
 ##  Currently Learning
 
 - Advanced LLM fine-tuning techniques
-- MLOps and automated quality assurance pipelines
+  </a>
 - Multimodal AI systems and integration
 
 ##  Get In Touch
