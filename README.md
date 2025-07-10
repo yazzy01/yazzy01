@@ -143,12 +143,10 @@ A collection of DevOps and system engineering projects using Shell, Python, Pupp
 
 ##  Contribution Graph
 
+## 📈 Contribution Graph
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake.svg" />
-  <a href="https://github.com/yazzy01">
+  <img src="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ##  Currently Learning
