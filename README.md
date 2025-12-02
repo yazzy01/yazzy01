@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://tailwind-my-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-yassir-blond.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassir-rzigui/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rziguiyassir@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=yazzy01&style=for-the-badge&color=10B981)](https://github.com/yazzy01)
@@ -183,10 +183,10 @@ I'm available for remote positions and freelance contracts worldwide.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-10B981?style=for-the-badge)](https://tailwind-my-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-10B981?style=for-the-badge)](https://portfolio-yassir-blond.vercel.app/)
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:rziguiyassir@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yassir-rzigui/)
-[![Download CV](https://img.shields.io/badge/📄_Download_CV-333333?style=for-the-badge)](https://tailwind-my-portfolio.vercel.app/assets/Yassir%20Rzigui%20CV%20.pdf)
+[![Download CV](https://img.shields.io/badge/📄_Download_CV-333333?style=for-the-badge)](https://portfolio-yassir-blond.vercel.app/assets/Yassir%20Rzigui%20CV%20.pdf)
 
 <br/>
 
