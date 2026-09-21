@@ -106,14 +106,6 @@ I turn complex evaluation guidelines into accurate datasets, benchmark signals, 
 
 ---
 
-## Daily Activity
-
-<!-- daily-activity:start -->
-> 🤖 **Automated profile heartbeat:** Last refreshed on **2026-09-21 (Africa/Casablanca)**. This timestamp is updated automatically; professional details and project claims are maintained manually.
-<!-- daily-activity:end -->
-
----
-
 ## GitHub Activity
 
 <div align="center">
