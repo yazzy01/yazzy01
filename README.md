@@ -1,207 +1,133 @@
 <div align="center">
-  
-# Hey there, I'm Yassir! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full-Stack+%26+AI+Software+Engineer;Building+Intelligent+Web+Systems;5%2B+Years+of+Remote+Experience;Open+to+Global+Opportunities)](https://git.io/typing-svg)
+# Hi, I'm Yassir Rzigui 👋
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&width=720&lines=AI+Data+Specialist;AI+Safety+%26+LLM+Evaluation;Full-Stack+%26+AI+Engineer;Arabic+%7C+French+%7C+English)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-yassir-blond.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-yassir-blond.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassir-rzigui/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rziguiyassir@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=yazzy01&style=for-the-badge&color=10B981)](https://github.com/yazzy01)
+[![Resume](https://img.shields.io/badge/View_Resume-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Yassir-Rzigui-Resume.pdf)
+[![Profile Views](https://komarev.com/ghpvc/?username=yazzy01&style=for-the-badge&color=0F766E)](https://github.com/yazzy01)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```typescript
-const yassir = {
-    title: "Full-Stack & AI Software Engineer",
-    location: "Morocco 🇲🇦 (Remote Worldwide)",
-    experience: "5+ years",
-    languages: ["English (Advanced)", "French (Native)", "Arabic (Native)"],
-    
-    currentFocus: [
-        "Building AI-integrated web applications",
-        "LangChain pipelines & LLM workflows",
-        "Scalable full-stack solutions"
-    ],
-    
-    funFact: "I've reduced manual QA by 15 hours/week using Python automation!"
-};
-```
+I am an **AI Data Specialist and Full-Stack Engineer** with 5+ years of experience spanning data annotation, data quality, multilingual data curation, LLM evaluation, RLHF, SFT, AI safety, and production software engineering.
 
-<br/>
+I turn complex evaluation guidelines into accurate datasets, benchmark signals, and automated quality workflows. I also build AI-integrated products and data pipelines with Python, SQL, PostgreSQL, React, Next.js, Node.js, Docker, and CI/CD.
 
-> **💼 Currently:** Full-Stack & AI Engineer at **Sigma Group** | Building AI-integrated tools for global teams
->
-> **🎯 Open to:** Remote positions, Freelance contracts, and exciting AI projects
+- 🔐 **Current focus:** AI safety, red teaming, agentic trajectory evaluation, and software-engineering benchmarks
+- 🤖 **AI data:** RLHF, SFT, prompt evaluation, rubric design, annotation QA, and benchmark development
+- 🌍 **Languages:** Arabic (native), French (native), and English (professional)
+- 📍 **Location:** Morocco - working remotely worldwide
+
+> **Currently:** AI Safety, Data, and SWE Evaluation Specialist at **Mercor** (contract), and Full-Stack and AI Engineer at **Sigma AI**.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Expertise
 
-<details open>
-<summary><b>Frontend</b></summary>
-<br/>
+| AI Data and Evaluation | Engineering and Automation |
+|---|---|
+| Data annotation, validation, and quality assurance | Python, SQL, PostgreSQL, and data analysis |
+| RLHF, SFT, prompt writing, and LLM evaluation | Data pipelines and automated QA workflows |
+| AI red teaming and model-safety evaluation | React, Next.js, TypeScript, and Node.js |
+| Multilingual curation and linguistic QA | Docker, AWS, GitHub Actions, and CI/CD |
+| Benchmark development and technical rubric design | FastAPI, LangChain, MongoDB, and semantic search |
+
+---
+
+## Experience
+
+| Role | Organization | Period | Selected impact |
+|---|---|---|---|
+| **AI Safety, Data, and SWE Evaluation Specialist** | Mercor | 2025 - Present | Produce structured evaluation data for RLHF/SFT workflows; perform multilingual red teaming, safety testing, benchmark writing, CLI comparison, agentic trajectory review, and cybersecurity-focused SWE evaluation. |
+| **Full-Stack and AI Engineer** | Sigma AI | Dec 2023 - Present | Build AI-integrated dashboards, annotation monitoring tools, and data-quality workflows; automated QA checks reduced manual effort by 40%. |
+| **AI Workflow Engineer and Data Annotator** | Outlier | Feb 2024 - Jul 2025 | Supported multilingual RLHF-aligned evaluation and reviewed 500+ prompts and records daily; Python automation saved 15+ manual hours per week. |
+| **Software Engineer, AI and Automation** | Contract AI | 2024 - 2025 | Built legal-document automation with Next.js, Node.js, PostgreSQL, AI APIs, structured extraction, and hallucination checks. |
+| **Freelance Full-Stack Developer** | Independent | Apr 2021 - Present | Delivered 25+ web and SaaS applications across health, legal tech, e-commerce, and education. |
+| **AI Data Quality Specialist and MT Evaluator** | RWS Group | Nov 2023 - Jan 2025 | Evaluated Arabic, French, and English datasets and machine-translation output through linguistic QA, semantic validation, and error analysis. |
+| **Remote AI Data Annotator** | TELUS, UHRS, Clickworker, Appen/CrowdGen | Jan 2019 - Mar 2025 | Performed large-scale labeling, relevance classification, speech evaluation, and content-quality review across multilingual datasets. |
+
+---
+
+## Selected Projects
+
+| Project | Description | Stack / Link |
+|---|---|---|
+| **TrendFlow SaaS** | Micro-trend forecasting platform using embeddings and real-time data pipelines. | FastAPI, embeddings, data pipelines |
+| **Profile Builder** | Automated portfolio generation with multi-step reasoning and structured profile extraction. | [Live demo](https://auto-profil-v3.vercel.app/) |
+| **CineDiscover** | AI movie recommendation system using model-powered reasoning and structured metadata. | [Live demo](https://cinediscover.vercel.app/) |
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>Backend</b></summary>
-<br/>
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>AI & Data</b></summary>
-<br/>
-
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RLHF](https://img.shields.io/badge/RLHF-FF6B6B?style=for-the-badge)
-
-</details>
-
-<details open>
-<summary><b>Database & DevOps</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</details>
-
----
-
-## 💼 Experience
-
-| Role | Company | Period | Highlights |
-|------|---------|--------|------------|
-| **Full-Stack & AI Engineer** | Sigma Group | Jan 2024 - Present | Built LangChain pipelines, automated workflows reducing manual review by **40%** |
-| **Software Engineer** | Contract AI | Feb 2024 - Jul 2025 | Legal doc automation with Next.js, Node.js, PostgreSQL + AI APIs |
-| **AI Workflow Engineer** | Outlier AI | Feb 2024 - Present | Fine-tuned LLMs with RLHF, **97% accuracy** across multilingual datasets |
-| **Full-Stack Developer** | Freelance | Apr 2021 - Dec 2023 | Delivered **25+ SaaS projects** for global clients |
-| **AI Data Quality Specialist** | RWS Group | Nov 2023 - Jan 2025 | Arabic-French translation quality evaluation |
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| **Auto Profil Builder** | AI-powered portfolio generator using Perplexity API | Next.js, Node.js, AI | [🔗 Demo](https://auto-profil-v3.vercel.app/) |
-| **Contract AI** | Legal document automation with AI clause extraction | Next.js, PostgreSQL, LangChain | [🔗 Demo](https://contract-ai-omega.vercel.app/) |
-| **CineDiscover** | AI movie recommendations with natural language input | Next.js, FastAPI, OpenAI | [🔗 Demo](https://cinediscover.vercel.app/) |
-| **NutriStepPro** | Nutrition & fitness tracking platform | React, Vite, TypeScript | [🔗 Demo](https://nutri-step-pro.vercel.app/) |
-| **RentingAll** | P2P vehicle rental marketplace | Next.js 15, Prisma, NextAuth | [🔗 Demo](https://renting-all.vercel.app/) • [📦 Code](https://github.com/yazzy01/renting-all) |
-| **SmartLearn** | E-learning platform with progress tracking | React, Express, Prisma | [🔗 Demo](https://learnsphere-starter.vercel.app/) • [📦 Code](https://github.com/yazzy01/learnsphere-starter) |
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Education and Training
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazzy01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazzy01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" height="170" alt="Top Languages"/>
-</div>
+- **Ph.D., Computer Science - Machine Learning and Natural Language Processing**, UM6P (2019 - 2022)
+- **M.S., Computer Science - Artificial Intelligence**, UM6P (2017 - 2019)
+- **Bachelor's Degree, Mathematics and Computer Science**, Universite Ibn Zohr (2014 - 2017)
+- **Digital AI Architect - Full-Stack and Intelligent Systems**, Digital France School (2025)
+- **Backend Software Engineering and AI Foundations**, ALX Africa (2024 - 2025)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yazzy01&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak"/>
-</div>
+### Certifications
 
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-| Certification | Institution | Year |
-|---------------|-------------|------|
-| 🏆 **Digital AI Architect: Full-Stack & Intelligent Systems** | Digital Maroc School | 2025 |
-| 🎖️ **Backend Software Engineering** | ALX Africa | 2025 |
-| 🚀 **Founder Academy Graduate** | ALX / MasterCard Foundation | 2025 |
-| 🤖 **AI Career Essentials** | ALX Africa | 2024 |
-| 📜 **Professional Foundations** | ALX Africa | 2024 |
-
-</div>
+- Full-Stack Developer and AI Data Specialist - micro1 (2025)
+- ProDev Backend Developer - ALX (2025)
+- Backend Development Certification - ALX (2025)
 
 ---
 
-## 🌍 Languages
+## GitHub Activity
 
 <div align="center">
-
-| Language | Proficiency | Use Case |
-|----------|-------------|----------|
-| 🇬🇧 **English** | Advanced | Technical documentation, Global collaboration |
-| 🇫🇷 **French** | Native | Client communication, EU projects |
-| 🇲🇦 **Arabic** | Native | MENA region, Multilingual AI training |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=yazzy01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9" height="170" alt="Yassir's GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazzy01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9" height="170" alt="Yassir's most-used languages"/>
 </div>
 
----
-
-## 📈 Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yazzy01&theme=github-compact&hide_border=true&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF" alt="Activity Graph"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-**Looking for a reliable Full-Stack & AI Engineer for your next project?**
-
-I'm available for remote positions and freelance contracts worldwide.
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-10B981?style=for-the-badge)](https://portfolio-yassir-blond.vercel.app/)
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:rziguiyassir@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yassir-rzigui/)
-[![Download CV](https://img.shields.io/badge/📄_Download_CV-333333?style=for-the-badge)](https://portfolio-yassir-blond.vercel.app/assets/Yassir%20Rzigui%20CV%20.pdf)
-
-<br/>
-
-📍 **Morocco** (GMT+1) • 📞 **+212 634 814 854** • ✉️ **rziguiyassir@gmail.com**
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yazzy01&theme=github-compact&hide_border=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=FFFFFF" alt="Yassir's GitHub activity graph"/>
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 *"Building intelligent web systems that combine clean code with AI capabilities"*
 
-<br/>
+## Let's Connect
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer)
+I am open to remote AI data, LLM evaluation, AI safety, and full-stack engineering opportunities.
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-yassir-blond.vercel.app/)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rziguiyassir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassir-rzigui/)
+[![Resume](https://img.shields.io/badge/View_Resume-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/Yassir-Rzigui-Resume.pdf)
 
 </div>
