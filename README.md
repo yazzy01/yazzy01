@@ -117,12 +117,17 @@ I turn complex evaluation guidelines into accurate datasets, benchmark signals, 
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yazzy01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9" height="170" alt="Yassir's GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazzy01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9" height="170" alt="Yassir's most-used languages"/>
+  <a href="https://github.com/yazzy01">
+    <img src="./assets/profile-metrics.svg" width="100%" alt="Yassir's GitHub statistics and most-used languages"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yazzy01&theme=github-compact&hide_border=true&bg_color=0D1117&color=14B8A6&line=14B8A6&point=FFFFFF" alt="Yassir's GitHub activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/yazzy01/yazzy01/output/github-contribution-grid-snake.svg" alt="Yassir's GitHub contribution activity"/>
+  </picture>
 </div>
 
 ---

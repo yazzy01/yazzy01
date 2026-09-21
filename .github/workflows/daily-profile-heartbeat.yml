@@ -51,12 +51,18 @@ jobs:
           readme.write_text(before + replacement + after, encoding="utf-8")
           PY
 
+      - name: Generate repository-hosted profile metrics
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_LOGIN: yazzy01
+        run: python .github/scripts/generate_profile_metrics.py
+
       - name: Commit the daily refresh when the date changes
         shell: bash
         run: |
           git config user.name "Yassir Rzigui (automated)"
           git config user.email "178524226+yazzy01@users.noreply.github.com"
-          git add README.md
+          git add README.md assets/profile-metrics.svg
 
           if git diff --cached --quiet; then
             echo "Profile heartbeat is already current."
