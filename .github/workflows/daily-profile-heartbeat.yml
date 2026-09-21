@@ -1,0 +1,67 @@
+name: Daily profile heartbeat
+
+on:
+  schedule:
+    - cron: "37 8 * * *"
+      timezone: "Africa/Casablanca"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-profile-heartbeat
+  cancel-in-progress: true
+
+jobs:
+  refresh-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Refresh the visible heartbeat date
+        shell: bash
+        run: |
+          python - <<'PY'
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          readme = Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+          start = "<!-- daily-activity:start -->"
+          end = "<!-- daily-activity:end -->"
+
+          if text.count(start) != 1 or text.count(end) != 1:
+              raise SystemExit("Daily activity markers are missing or duplicated")
+
+          today = datetime.now(ZoneInfo("Africa/Casablanca")).date().isoformat()
+          replacement = (
+              f"{start}\n"
+              f"> 🤖 **Automated profile heartbeat:** Last refreshed on **{today} "
+              "(Africa/Casablanca)**. This timestamp is updated automatically; "
+              "professional details and project claims are maintained manually.\n"
+              f"{end}"
+          )
+          before, remainder = text.split(start, 1)
+          _, after = remainder.split(end, 1)
+          readme.write_text(before + replacement + after, encoding="utf-8")
+          PY
+
+      - name: Commit the daily refresh when the date changes
+        shell: bash
+        run: |
+          git config user.name "Yassir Rzigui (automated)"
+          git config user.email "178524226+yazzy01@users.noreply.github.com"
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "Profile heartbeat is already current."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh automated profile heartbeat"
+          git push origin HEAD:master
